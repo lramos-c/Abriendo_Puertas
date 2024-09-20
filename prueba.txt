@@ -1,1 +1,2 @@
 Este cambio fue hecho localmente.
+Este texto fue añadido desde GitHub.
